@@ -55,7 +55,9 @@ $
 \text{objective value} = (1 - \text{coherence score}) * 0.7 + \text{normalized perplexity} * \lambda_{\text{perplexity}} + \text{normalized train time} * \lambda{\text{time}}
 $
 
-![image](https://github.com/user-attachments/assets/e8cc25c1-f347-4385-8683-7f128679dc57)
+![image](https://github.com/user-attachments/assets/736431bd-46fc-4b01-8ca3-e57da9d09d1f)
+
+
 
 #### **Explanation of Terms:**
 - **Coherence Score (`coherence_score`)** → Higher values indicate better topic quality.
